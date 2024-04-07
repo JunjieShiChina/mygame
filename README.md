@@ -1,4 +1,4 @@
-# mygame
+# LibGdx 基于LibGdx自制游戏-太空战士
 
 基于LibGdx自制游戏-太空战士【自制游戏，太空英雄-哔哩哔哩】 https://b23.tv/rmmTP5h
 
